@@ -1,6 +1,12 @@
 # SplitBeltDatabase
 
-This repository consists of a Jupyter Notebook of the analysis of a split-belt dataset.  The split-belt dataset is currrently compiled from only the Sensorimotor Learning Laboratory data (500+ samples).  I am seeking to increase the data contained in the dataset to 5,000 by collaborating with other labs.
+This repository consists of a Jupyter Notebook of the analysis of a split-belt dataset.  The split-belt dataset is currrently compiled from only the Sensorimotor Learning Laboratory data (500+ samples).  Onging efforts are being made to increase the size of the dataset to 5,000 samples by collaborating with other labs.
+
+# Analysis
+
+The data analysis is ongoing. Preliminary characterizations of the data are ongoing at more data is added to the lab repositories.
+
+# Database
 
 Each row in the dataset is an indvidual split-belt session.  The columns are different variables, such as **subject demographics**, **experimental protocol details**, and **motor outcomes**.
 
