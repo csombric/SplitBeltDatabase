@@ -2,6 +2,20 @@
 
 This repository consists of a Jupyter Notebook of the analysis of a split-belt dataset.  The split-belt dataset is currrently compiled from only the Sensorimotor Learning Laboratory data (500+ samples).  Onging efforts are being made to increase the size of the dataset to 5,000 samples by collaborating with other labs.
 
+# Current Contributors:
+
+- Sensorimotor Learning Laboratory at the University of Pittsburgh (PI: Dr. Gelsy Torres-Oviedo)
+
+# Problem & Goal
+
+It is currently unclear what split-belt training responses we could even expect from young healthy subjects, much less those with neural or biomechanical pathologies (aging, braining lesions, cogntive decline, amputaiton, etc.). Split-belt results are usually published as group averages as it is often difficult to explain fluctuations within groups.  **The primary goal of this analysis is to be able to predict responses to split-belt training for individual subjects given (1) subject demographics, (2) protocol details, and (3) potentially baseline movement features.**
+
+**A secondary goal is to make good use of the data we have already collected.**  There are many questions that the community may have that can be answered more completely using the large amount of data that has already been collected as opposed to collecting a small group of new subjects.  **I hope that this analysis and creation of the database will serve split-belt researchers and the human motor control and motor adaptation communities well.**
+
+The current plan is to train a series of machine learning algorithms on training data, which will consist of a random sampling fo the population, and access the model on a training set.
+
+# Models Evaluated
+
 # Analysis
 
 The data analysis is ongoing. Preliminary characterizations of the data are ongoing at more data is added to the lab repositories.
