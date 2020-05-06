@@ -20,11 +20,15 @@ It is currently unclear what split-belt training responses we could even expect 
 This repository consists of Jupyter Notebooks of the analysis of a split-belt dataset. 
 
 1. SplitBeltAnalysis_DataClearning.ipynd
-2. Learning: TMSteady
-3. Learning: TMAfter
+2. After-Effects: Walking pattern following gait training
    - SplitBeltAnalysis_AfterEffects_FeatureSelection.ipynd
    - SplitBeltAnalysis_AfterEffects_Modeling.ipynd
-
+3. DeltAdaptation: Change in walking pattern during gait training
+   - SplitBeltAnalysis_DeltaAdapt_FeatureSelection.ipynd
+   - SplitBeltAnalysis_DeltaAdapt_Modeling.ipynd
+4. Steady State: Walking pattern at the end of gait training
+   - SplitBeltAnalysis_SteadyState_FeatureSelection.ipynd
+   - SplitBeltAnalysis_SteadyState_Modeling.ipynd
 
 # Characterization of Learning
 
