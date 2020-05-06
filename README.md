@@ -21,9 +21,9 @@ This repository consists of Jupyter Notebooks of the analysis of a split-belt da
 
 1. SplitBeltAnalysis_DataClearning.ipynd
 2. Learning: TMSteady
-   - SplitBeltAnalysis_SteadyState.ipynd
 3. Learning: TMAfter
-   - SplitBeltAnalysis_AfterEffects.ipynd
+   - SplitBeltAnalysis_AfterEffects_FeatureSelection.ipynd
+   - SplitBeltAnalysis_AfterEffects_Modeling.ipynd
 
 
 # Characterization of Learning
