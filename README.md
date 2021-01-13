@@ -27,7 +27,7 @@ This repository consists of Jupyter Notebooks and Python scripts:
 
 Gait is characterized by a measure of stepping symmetry called **Step Length Asymmetry**.  Consider that if each step is the same size that Step Length Asymmetry is zero, whereas if one step is longer than the other that Step Length Asymmetry is non-zero. Step Length Asymmetry will be used to characterize changes in gait due to split-belt walking.  
 
-![\Large Step Length Asymmetry=\frac{stepLengthFast-stepLengthSlow}{stepLengthFast+stepLengthSlow}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
+Step Length Asymmetry=(stepLengthFast-stepLengthSlow)/(stepLengthFast+stepLengthSlow)
 
 Recall that the goal is to classify whether subjects successfully learned a new walking pattern.  Here, learning a new walking pattern was assessed with TMAfter.  **TMAfter** is the Step Length Asymmetry during the tied-belt walking that directly follows split-belt walking relative to the subject's baseline Step Length Asymmetry. 
 
